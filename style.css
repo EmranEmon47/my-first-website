@@ -1,0 +1,10 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.initial-part{
+    display: flex;
+    
+}
+a{
+    text-decoration: none;
+}
