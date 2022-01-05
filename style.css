@@ -30,4 +30,12 @@ a{
     padding-left: 110px;
     margin: 0;
 }
+.big-display{
+    background-image: url(images/person-as-bg.jpg);
+    display: flow-root;
+    padding-top: 25%;
+    color: white;
+    font-size: 110%;
+    padding-left: 40px;
+}
 
