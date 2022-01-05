@@ -38,4 +38,22 @@ a{
     font-size: 110%;
     padding-left: 40px;
 }
+.news-items{
+    display: flex;
+    
+}
+.news-items img{
+    width: 370px;
+    height: 250px;
+    object-fit: cover;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.news-header h1{
+    padding-left: 10px;
+    font-size: 30px;
+}
+.news-items h3,p{
+    padding-left: 10px;
+}
 
